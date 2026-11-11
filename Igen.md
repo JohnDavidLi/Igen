@@ -53,23 +53,23 @@ Zwar ist jedes Kapitel in sich abgeschlossen, doch mein Bestreben war es, durch 
 
 **Besondere Zeichensetzung nicht ausgesprochener Satzteile:**
 
-- ´ : nicht gesprochener Vokal bzw. Zwielaut
+´ : nicht gesprochener Vokal bzw. Zwielaut
 <br>
-- ' : Artikel bzw. dessen Teil
+' : Artikel bzw. dessen Teil
 <br>
-- ^ : Wortendung
+^ : Wortendung
 <br>
-- ² : dass
+² : dass
 <br>
-- ³ : als
+³ : als
 <br>
-- ~ : auch wenn
+~ : auch wenn
 <br>
-- ° : Fürwörter (*ich, Du, er, sie, es, wir, Ihr, sie, man*)
+° : Fürwörter (*ich, Du, er, sie, es, wir, Ihr, sie, man*)
 <br>
-- = : Verbform von "sein" oder "werden"
+= : Verbform von "sein" oder "werden"
 <br>
-- .+ : Verbform von "haben"
+.+ : Verbform von "haben"
 
 *München, im Sommer 1994 (Überarbeitet 2026)<br>
 John David Li*
